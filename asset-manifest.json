@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/earthspeaks-dashboard/static/css/main.ad15531f.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.b62b73bd.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.b62b73bd.chunk.js.map",
+    "main.js": "/earthspeaks-dashboard/static/js/main.6f653f62.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.6f653f62.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
-    "static/js/2.8027b448.chunk.js": "/earthspeaks-dashboard/static/js/2.8027b448.chunk.js",
-    "static/js/2.8027b448.chunk.js.map": "/earthspeaks-dashboard/static/js/2.8027b448.chunk.js.map",
+    "static/js/2.1385cf7a.chunk.js": "/earthspeaks-dashboard/static/js/2.1385cf7a.chunk.js",
+    "static/js/2.1385cf7a.chunk.js.map": "/earthspeaks-dashboard/static/js/2.1385cf7a.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.1b13a96d1fd3764de71b50d5817ebcbe.js": "/earthspeaks-dashboard/precache-manifest.1b13a96d1fd3764de71b50d5817ebcbe.js",
+    "precache-manifest.373323d7b222ec5281eff82863094643.js": "/earthspeaks-dashboard/precache-manifest.373323d7b222ec5281eff82863094643.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
     "static/css/main.ad15531f.chunk.css.map": "/earthspeaks-dashboard/static/css/main.ad15531f.chunk.css.map",
-    "static/js/2.8027b448.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.8027b448.chunk.js.LICENSE.txt",
+    "static/js/2.1385cf7a.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.1385cf7a.chunk.js.LICENSE.txt",
     "static/media/VitalArcticseaiceminimum.css": "/earthspeaks-dashboard/static/media/Arcticseaiceminimum_bg.8249f498.jpg",
     "static/media/VitalBees.css": "/earthspeaks-dashboard/static/media/Bees_bg.ae7fa4b5.jpg",
     "static/media/VitalCO2.css": "/earthspeaks-dashboard/static/media/CO2_bg.83a68b22.jpg",
@@ -53,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.43373d4e.js",
-    "static/js/2.8027b448.chunk.js",
+    "static/js/2.1385cf7a.chunk.js",
     "static/css/main.ad15531f.chunk.css",
-    "static/js/main.b62b73bd.chunk.js"
+    "static/js/main.6f653f62.chunk.js"
   ]
 }
