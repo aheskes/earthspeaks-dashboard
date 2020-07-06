@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/earthspeaks-dashboard/precache-manifest.9718638f53dff0aed653aa161943ff2d.js"
+  "/earthspeaks-dashboard/precache-manifest.495b80cd1249ce916b14ce554d7e1023.js"
 );
 
 self.addEventListener('message', (event) => {
