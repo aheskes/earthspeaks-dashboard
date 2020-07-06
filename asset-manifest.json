@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/earthspeaks-dashboard/static/css/main.332ac489.chunk.css",
+    "main.css": "/earthspeaks-dashboard/static/css/main.74225c8f.chunk.css",
     "main.js": "/earthspeaks-dashboard/static/js/main.dba73771.chunk.js",
     "main.js.map": "/earthspeaks-dashboard/static/js/main.dba73771.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
@@ -8,9 +8,9 @@
     "static/js/2.56aa6118.chunk.js": "/earthspeaks-dashboard/static/js/2.56aa6118.chunk.js",
     "static/js/2.56aa6118.chunk.js.map": "/earthspeaks-dashboard/static/js/2.56aa6118.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.3bf1cf4352dc95fd29507ff2b700f2d6.js": "/earthspeaks-dashboard/precache-manifest.3bf1cf4352dc95fd29507ff2b700f2d6.js",
+    "precache-manifest.c43723712c6c11b6654279a91f5f74f5.js": "/earthspeaks-dashboard/precache-manifest.c43723712c6c11b6654279a91f5f74f5.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
-    "static/css/main.332ac489.chunk.css.map": "/earthspeaks-dashboard/static/css/main.332ac489.chunk.css.map",
+    "static/css/main.74225c8f.chunk.css.map": "/earthspeaks-dashboard/static/css/main.74225c8f.chunk.css.map",
     "static/js/2.56aa6118.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.56aa6118.chunk.js.LICENSE.txt",
     "static/media/VitalArcticseaiceminimum.css": "/earthspeaks-dashboard/static/media/Arcticseaiceminimum_bg.8249f498.jpg",
     "static/media/VitalBees.css": "/earthspeaks-dashboard/static/media/Bees_bg.ae7fa4b5.jpg",
@@ -53,7 +53,7 @@
   "entrypoints": [
     "static/js/runtime-main.43373d4e.js",
     "static/js/2.56aa6118.chunk.js",
-    "static/css/main.332ac489.chunk.css",
+    "static/css/main.74225c8f.chunk.css",
     "static/js/main.dba73771.chunk.js"
   ]
 }
