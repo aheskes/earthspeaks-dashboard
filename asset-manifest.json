@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/earthspeaks-dashboard/static/css/main.b913fd24.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.0221faf5.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.0221faf5.chunk.js.map",
+    "main.js": "/earthspeaks-dashboard/static/js/main.42a2a04e.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.42a2a04e.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
     "static/js/2.0ab9d1c6.chunk.js": "/earthspeaks-dashboard/static/js/2.0ab9d1c6.chunk.js",
     "static/js/2.0ab9d1c6.chunk.js.map": "/earthspeaks-dashboard/static/js/2.0ab9d1c6.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.13ecff9b78b43cc533e9a1e09f046291.js": "/earthspeaks-dashboard/precache-manifest.13ecff9b78b43cc533e9a1e09f046291.js",
+    "precache-manifest.2a2c00dc94b663214799cafc4c6722ad.js": "/earthspeaks-dashboard/precache-manifest.2a2c00dc94b663214799cafc4c6722ad.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
     "static/css/main.b913fd24.chunk.css.map": "/earthspeaks-dashboard/static/css/main.b913fd24.chunk.css.map",
     "static/js/2.0ab9d1c6.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.0ab9d1c6.chunk.js.LICENSE.txt",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.43373d4e.js",
     "static/js/2.0ab9d1c6.chunk.js",
     "static/css/main.b913fd24.chunk.css",
-    "static/js/main.0221faf5.chunk.js"
+    "static/js/main.42a2a04e.chunk.js"
   ]
 }
