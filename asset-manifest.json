@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/earthspeaks-dashboard/static/css/main.376b30ec.chunk.css",
+    "main.css": "/earthspeaks-dashboard/static/css/main.d5b58918.chunk.css",
     "main.js": "/earthspeaks-dashboard/static/js/main.dba73771.chunk.js",
     "main.js.map": "/earthspeaks-dashboard/static/js/main.dba73771.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
@@ -8,9 +8,9 @@
     "static/js/2.56aa6118.chunk.js": "/earthspeaks-dashboard/static/js/2.56aa6118.chunk.js",
     "static/js/2.56aa6118.chunk.js.map": "/earthspeaks-dashboard/static/js/2.56aa6118.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.c7dd579fd680c2ad15932945a4135d5f.js": "/earthspeaks-dashboard/precache-manifest.c7dd579fd680c2ad15932945a4135d5f.js",
+    "precache-manifest.266c10d3a23ea88f1af404b361edf5aa.js": "/earthspeaks-dashboard/precache-manifest.266c10d3a23ea88f1af404b361edf5aa.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
-    "static/css/main.376b30ec.chunk.css.map": "/earthspeaks-dashboard/static/css/main.376b30ec.chunk.css.map",
+    "static/css/main.d5b58918.chunk.css.map": "/earthspeaks-dashboard/static/css/main.d5b58918.chunk.css.map",
     "static/js/2.56aa6118.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.56aa6118.chunk.js.LICENSE.txt",
     "static/media/VitalArcticseaiceminimum.css": "/earthspeaks-dashboard/static/media/Arcticseaiceminimum_bg.8249f498.jpg",
     "static/media/VitalBees.css": "/earthspeaks-dashboard/static/media/Bees_bg.ae7fa4b5.jpg",
@@ -41,6 +41,7 @@
     "static/media/InfoAquaticlife.css": "/earthspeaks-dashboard/static/media/lobster.f41ab092.jpg",
     "static/media/navigation.png": "/earthspeaks-dashboard/static/media/navigation.95986788.png",
     "static/media/VitalNearspace.css": "/earthspeaks-dashboard/static/media/near-space.25ed1257.jpg",
+    "static/media/VitalOceans.css": "/earthspeaks-dashboard/static/media/ocean-bg.37ecfe36.JPG",
     "static/media/InfoPhytoplankton.css": "/earthspeaks-dashboard/static/media/phytoplankton.d71d3e44.jpg",
     "static/media/prediction.png": "/earthspeaks-dashboard/static/media/prediction.64f1d798.png",
     "static/media/InfoPhysicalproperties.css": "/earthspeaks-dashboard/static/media/prop_bg.6e36fac2.jpg",
@@ -53,7 +54,7 @@
   "entrypoints": [
     "static/js/runtime-main.43373d4e.js",
     "static/js/2.56aa6118.chunk.js",
-    "static/css/main.376b30ec.chunk.css",
+    "static/css/main.d5b58918.chunk.css",
     "static/js/main.dba73771.chunk.js"
   ]
 }
