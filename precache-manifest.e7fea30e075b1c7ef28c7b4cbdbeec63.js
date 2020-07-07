@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d805f94371495e4c8ca15e92a0e2f64d",
+    "revision": "f09ce3ee718002ff988f0ecf0dc0335b",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "2e0cc522144bef9d6f89",
+    "revision": "3812164e1f79e78f73de",
     "url": "/earthspeaks-dashboard/static/css/main.b913fd24.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/js/2.a89d3769.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e0cc522144bef9d6f89",
-    "url": "/earthspeaks-dashboard/static/js/main.cb5d6c70.chunk.js"
+    "revision": "3812164e1f79e78f73de",
+    "url": "/earthspeaks-dashboard/static/js/main.9a0a314f.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
