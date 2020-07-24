@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/earthspeaks-dashboard/static/css/main.e5058505.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.5b719e9a.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.5b719e9a.chunk.js.map",
+    "main.css": "/earthspeaks-dashboard/static/css/main.b05e5348.chunk.css",
+    "main.js": "/earthspeaks-dashboard/static/js/main.b8403177.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.b8403177.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
     "static/js/2.4793d09d.chunk.js": "/earthspeaks-dashboard/static/js/2.4793d09d.chunk.js",
     "static/js/2.4793d09d.chunk.js.map": "/earthspeaks-dashboard/static/js/2.4793d09d.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.4450c4ce604720476ef02ae5dada53e2.js": "/earthspeaks-dashboard/precache-manifest.4450c4ce604720476ef02ae5dada53e2.js",
+    "precache-manifest.548b0569f15f6b03b47cc7af92a198d0.js": "/earthspeaks-dashboard/precache-manifest.548b0569f15f6b03b47cc7af92a198d0.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
-    "static/css/main.e5058505.chunk.css.map": "/earthspeaks-dashboard/static/css/main.e5058505.chunk.css.map",
+    "static/css/main.b05e5348.chunk.css.map": "/earthspeaks-dashboard/static/css/main.b05e5348.chunk.css.map",
     "static/js/2.4793d09d.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.4793d09d.chunk.js.LICENSE.txt",
     "static/media/VitalArcticseaiceminimum.css": "/earthspeaks-dashboard/static/media/Arcticseaiceminimum_bg.8249f498.jpg",
     "static/media/VitalBees.css": "/earthspeaks-dashboard/static/media/Bees_bg.ae7fa4b5.jpg",
@@ -28,11 +28,11 @@
     "static/media/VitalAir.css": "/earthspeaks-dashboard/static/media/air-bg.0c6be87f.jpg",
     "static/media/back.png": "/earthspeaks-dashboard/static/media/back.1200a2c9.png",
     "static/media/VitalAffected.css": "/earthspeaks-dashboard/static/media/chat_bg.79b0fe61.jpg",
-    "static/media/InfoCoral.css": "/earthspeaks-dashboard/static/media/coral.66c8bec0.jpg",
+    "static/media/coral.jpg": "/earthspeaks-dashboard/static/media/coral.66c8bec0.jpg",
     "static/media/dn.png": "/earthspeaks-dashboard/static/media/dn.c5fbab00.png",
     "static/media/earthdna_logo.png": "/earthspeaks-dashboard/static/media/earthdna_logo.d58f1c69.png",
     "static/media/VitalForestfires.css": "/earthspeaks-dashboard/static/media/fire.8903a468.jpg",
-    "static/media/InfoFlatworm.css": "/earthspeaks-dashboard/static/media/flatworm.ad6d1393.jpg",
+    "static/media/flatworm.jpg": "/earthspeaks-dashboard/static/media/flatworm.ad6d1393.jpg",
     "static/media/InfoFlooding.css": "/earthspeaks-dashboard/static/media/flooding.fc5925d6.jpg",
     "static/media/globe01.jpg": "/earthspeaks-dashboard/static/media/globe01.aeb6cb8f.jpg",
     "static/media/globe02.png": "/earthspeaks-dashboard/static/media/globe02.c94d147c.png",
@@ -45,16 +45,16 @@
     "static/media/InfoPhytoplankton.css": "/earthspeaks-dashboard/static/media/phytoplankton.d71d3e44.jpg",
     "static/media/prediction.png": "/earthspeaks-dashboard/static/media/prediction.64f1d798.png",
     "static/media/InfoPhysicalproperties.css": "/earthspeaks-dashboard/static/media/prop_bg.6e36fac2.jpg",
-    "static/media/VitalAcidification.css": "/earthspeaks-dashboard/static/media/pteropod.26e97f0f.jpg",
+    "static/media/pteropod.jpg": "/earthspeaks-dashboard/static/media/pteropod.26e97f0f.jpg",
     "static/media/radar.png": "/earthspeaks-dashboard/static/media/radar.eb4b7982.png",
-    "static/media/InfoSeaturtle.css": "/earthspeaks-dashboard/static/media/sea_turtle.aa4bfce4.jpg",
+    "static/media/sea_turtle.jpg": "/earthspeaks-dashboard/static/media/sea_turtle.aa4bfce4.jpg",
     "static/media/target.png": "/earthspeaks-dashboard/static/media/target.e47813f7.png",
     "static/media/up.png": "/earthspeaks-dashboard/static/media/up.44936f06.png"
   },
   "entrypoints": [
     "static/js/runtime-main.43373d4e.js",
     "static/js/2.4793d09d.chunk.js",
-    "static/css/main.e5058505.chunk.css",
-    "static/js/main.5b719e9a.chunk.js"
+    "static/css/main.b05e5348.chunk.css",
+    "static/js/main.b8403177.chunk.js"
   ]
 }
