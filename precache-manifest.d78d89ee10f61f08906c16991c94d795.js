@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e17ad2e8190d7acc08a62a497ef13395",
+    "revision": "a7ec52fe3324a4b72b488b3520d98c93",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "93081ae5b357d2e12d3c",
+    "revision": "17301a1d1fd4ba9a5ca9",
     "url": "/earthspeaks-dashboard/static/css/main.b2eb8bae.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/js/2.1d3a9d34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93081ae5b357d2e12d3c",
-    "url": "/earthspeaks-dashboard/static/js/main.2155c282.chunk.js"
+    "revision": "17301a1d1fd4ba9a5ca9",
+    "url": "/earthspeaks-dashboard/static/js/main.03b3e81a.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
@@ -132,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/lobster.f41ab092.jpg"
   },
   {
-    "revision": "bf6d6feb16b4b9f10723df40fb1d16c2",
-    "url": "/earthspeaks-dashboard/static/media/logo01.bf6d6feb.png"
+    "revision": "040240ddc84628b2e240adf6b0b80504",
+    "url": "/earthspeaks-dashboard/static/media/logo01.040240dd.png"
   },
   {
     "revision": "55b0d9e8654a82d58f0c38c372701972",
