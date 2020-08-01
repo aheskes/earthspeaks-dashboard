@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/earthspeaks-dashboard/static/css/main.413183a9.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.25e30c29.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.25e30c29.chunk.js.map",
+    "main.js": "/earthspeaks-dashboard/static/js/main.fa85ae3c.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.fa85ae3c.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
     "static/js/2.1d3a9d34.chunk.js": "/earthspeaks-dashboard/static/js/2.1d3a9d34.chunk.js",
     "static/js/2.1d3a9d34.chunk.js.map": "/earthspeaks-dashboard/static/js/2.1d3a9d34.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.1ef718eb1c21a7a16619513812a17714.js": "/earthspeaks-dashboard/precache-manifest.1ef718eb1c21a7a16619513812a17714.js",
+    "precache-manifest.3e4603170a5d2ad6ae9454a1904800da.js": "/earthspeaks-dashboard/precache-manifest.3e4603170a5d2ad6ae9454a1904800da.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
     "static/css/main.413183a9.chunk.css.map": "/earthspeaks-dashboard/static/css/main.413183a9.chunk.css.map",
     "static/js/2.1d3a9d34.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.1d3a9d34.chunk.js.LICENSE.txt",
@@ -25,7 +25,7 @@
     "static/media/VitalSealv.css": "/earthspeaks-dashboard/static/media/SeaLevel_bg.70816981.jpg",
     "static/media/VitalTemperature.css": "/earthspeaks-dashboard/static/media/Temperature_bg.b2cfc54b.jpg",
     "static/media/VitalTumbleweed.css": "/earthspeaks-dashboard/static/media/Tumbleweed_bg.166f37a7.jpg",
-    "static/media/air-bg.jpg": "/earthspeaks-dashboard/static/media/air-bg.59897dac.jpg",
+    "static/media/air-bg.jpg": "/earthspeaks-dashboard/static/media/air-bg.53ae367b.jpg",
     "static/media/back.png": "/earthspeaks-dashboard/static/media/back.1200a2c9.png",
     "static/media/VitalAffected.css": "/earthspeaks-dashboard/static/media/chat_bg.79b0fe61.jpg",
     "static/media/coral.jpg": "/earthspeaks-dashboard/static/media/coral.66c8bec0.jpg",
@@ -36,13 +36,13 @@
     "static/media/InfoFlooding.css": "/earthspeaks-dashboard/static/media/flooding.fc5925d6.jpg",
     "static/media/globe01.jpg": "/earthspeaks-dashboard/static/media/globe01.aeb6cb8f.jpg",
     "static/media/globe02.png": "/earthspeaks-dashboard/static/media/globe02.c94d147c.png",
-    "static/media/land-bg.jpg": "/earthspeaks-dashboard/static/media/land-bg.12542b2b.jpg",
+    "static/media/land-bg.jpg": "/earthspeaks-dashboard/static/media/land-bg.b1179025.jpg",
     "static/media/InfoLanternfish.css": "/earthspeaks-dashboard/static/media/lanternfish.f5b6829b.jpg",
     "static/media/InfoAquaticlife.css": "/earthspeaks-dashboard/static/media/lobster.f41ab092.jpg",
-    "static/media/logo01.png": "/earthspeaks-dashboard/static/media/logo01.af879292.png",
+    "static/media/logo01.png": "/earthspeaks-dashboard/static/media/logo01.f6f87735.png",
     "static/media/navigation.png": "/earthspeaks-dashboard/static/media/navigation.55b0d9e8.png",
-    "static/media/near-space.jpg": "/earthspeaks-dashboard/static/media/near-space.f08547d1.jpg",
-    "static/media/ocean-bg.jpg": "/earthspeaks-dashboard/static/media/ocean-bg.37ecfe36.jpg",
+    "static/media/near-space.jpg": "/earthspeaks-dashboard/static/media/near-space.f4ea8aca.jpg",
+    "static/media/ocean-bg.jpg": "/earthspeaks-dashboard/static/media/ocean-bg.0a9f3d5a.jpg",
     "static/media/InfoPhytoplankton.css": "/earthspeaks-dashboard/static/media/phytoplankton.d71d3e44.jpg",
     "static/media/prediction.png": "/earthspeaks-dashboard/static/media/prediction.64f1d798.png",
     "static/media/InfoPhysicalproperties.css": "/earthspeaks-dashboard/static/media/prop_bg.6e36fac2.jpg",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.43373d4e.js",
     "static/js/2.1d3a9d34.chunk.js",
     "static/css/main.413183a9.chunk.css",
-    "static/js/main.25e30c29.chunk.js"
+    "static/js/main.fa85ae3c.chunk.js"
   ]
 }
