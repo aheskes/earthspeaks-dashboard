@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/earthspeaks-dashboard/static/css/main.413183a9.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.80141b67.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.80141b67.chunk.js.map",
+    "main.js": "/earthspeaks-dashboard/static/js/main.300516f6.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.300516f6.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
     "static/js/2.ef4e8a6c.chunk.js": "/earthspeaks-dashboard/static/js/2.ef4e8a6c.chunk.js",
     "static/js/2.ef4e8a6c.chunk.js.map": "/earthspeaks-dashboard/static/js/2.ef4e8a6c.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.5a502ffd75cd0e00a4f586b84392112c.js": "/earthspeaks-dashboard/precache-manifest.5a502ffd75cd0e00a4f586b84392112c.js",
+    "precache-manifest.aa8dd68eb171e597605de622870d601b.js": "/earthspeaks-dashboard/precache-manifest.aa8dd68eb171e597605de622870d601b.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
     "static/css/main.413183a9.chunk.css.map": "/earthspeaks-dashboard/static/css/main.413183a9.chunk.css.map",
     "static/js/2.ef4e8a6c.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.ef4e8a6c.chunk.js.LICENSE.txt",
@@ -39,8 +39,8 @@
     "static/media/land-bg.jpg": "/earthspeaks-dashboard/static/media/land-bg.b1179025.jpg",
     "static/media/InfoLanternfish.css": "/earthspeaks-dashboard/static/media/lanternfish.f5b6829b.jpg",
     "static/media/InfoAquaticlife.css": "/earthspeaks-dashboard/static/media/lobster.f41ab092.jpg",
-    "static/media/logo-transparent.png": "/earthspeaks-dashboard/static/media/logo-transparent.1ff3d0a6.png",
-    "static/media/logo01.png": "/earthspeaks-dashboard/static/media/logo01.e1d177e6.png",
+    "static/media/logo-transparent.png": "/earthspeaks-dashboard/static/media/logo-transparent.8d4b67f3.png",
+    "static/media/logo01.png": "/earthspeaks-dashboard/static/media/logo01.78c7eaf5.png",
     "static/media/navigation.png": "/earthspeaks-dashboard/static/media/navigation.55b0d9e8.png",
     "static/media/near-space.jpg": "/earthspeaks-dashboard/static/media/near-space.f4ea8aca.jpg",
     "static/media/ocean-bg.jpg": "/earthspeaks-dashboard/static/media/ocean-bg.0a9f3d5a.jpg",
@@ -57,6 +57,6 @@
     "static/js/runtime-main.43373d4e.js",
     "static/js/2.ef4e8a6c.chunk.js",
     "static/css/main.413183a9.chunk.css",
-    "static/js/main.80141b67.chunk.js"
+    "static/js/main.300516f6.chunk.js"
   ]
 }
