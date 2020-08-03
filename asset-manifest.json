@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/earthspeaks-dashboard/static/css/main.413183a9.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.8ea11112.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.8ea11112.chunk.js.map",
+    "main.js": "/earthspeaks-dashboard/static/js/main.6216b3ac.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.6216b3ac.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
     "static/js/2.ef4e8a6c.chunk.js": "/earthspeaks-dashboard/static/js/2.ef4e8a6c.chunk.js",
     "static/js/2.ef4e8a6c.chunk.js.map": "/earthspeaks-dashboard/static/js/2.ef4e8a6c.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.081e7a096b6a9ca0af277bbd9eab3d24.js": "/earthspeaks-dashboard/precache-manifest.081e7a096b6a9ca0af277bbd9eab3d24.js",
+    "precache-manifest.9cb4ea12683f540e432613b9944bd84c.js": "/earthspeaks-dashboard/precache-manifest.9cb4ea12683f540e432613b9944bd84c.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
     "static/css/main.413183a9.chunk.css.map": "/earthspeaks-dashboard/static/css/main.413183a9.chunk.css.map",
     "static/js/2.ef4e8a6c.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.ef4e8a6c.chunk.js.LICENSE.txt",
@@ -40,7 +40,7 @@
     "static/media/InfoLanternfish.css": "/earthspeaks-dashboard/static/media/lanternfish.f5b6829b.jpg",
     "static/media/InfoAquaticlife.css": "/earthspeaks-dashboard/static/media/lobster.f41ab092.jpg",
     "static/media/logo-transparent.png": "/earthspeaks-dashboard/static/media/logo-transparent.8d4b67f3.png",
-    "static/media/logo01.png": "/earthspeaks-dashboard/static/media/logo01.2eeea864.png",
+    "static/media/logo01.png": "/earthspeaks-dashboard/static/media/logo01.84a1dc35.png",
     "static/media/navigation.png": "/earthspeaks-dashboard/static/media/navigation.55b0d9e8.png",
     "static/media/near-space.jpg": "/earthspeaks-dashboard/static/media/near-space.f4ea8aca.jpg",
     "static/media/ocean-bg.jpg": "/earthspeaks-dashboard/static/media/ocean-bg.0a9f3d5a.jpg",
@@ -57,6 +57,6 @@
     "static/js/runtime-main.43373d4e.js",
     "static/js/2.ef4e8a6c.chunk.js",
     "static/css/main.413183a9.chunk.css",
-    "static/js/main.8ea11112.chunk.js"
+    "static/js/main.6216b3ac.chunk.js"
   ]
 }
