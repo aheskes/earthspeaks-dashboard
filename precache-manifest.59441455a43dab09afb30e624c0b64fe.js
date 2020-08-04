@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f91335c9a3a67bc4add23dd1f707ba68",
+    "revision": "d02c133ac6c4f79854dab7612346dd2d",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "738f240f46d6f6bab980",
+    "revision": "fabdcaecae04589368ed",
     "url": "/earthspeaks-dashboard/static/css/main.413183a9.chunk.css"
   },
   {
-    "revision": "7e6a15b280c9fbdf9f65",
-    "url": "/earthspeaks-dashboard/static/js/2.09023bb4.chunk.js"
+    "revision": "a96f36f9ac9ba154b217",
+    "url": "/earthspeaks-dashboard/static/js/2.937e7783.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/earthspeaks-dashboard/static/js/2.09023bb4.chunk.js.LICENSE.txt"
+    "url": "/earthspeaks-dashboard/static/js/2.937e7783.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "738f240f46d6f6bab980",
-    "url": "/earthspeaks-dashboard/static/js/main.d912f8b6.chunk.js"
+    "revision": "fabdcaecae04589368ed",
+    "url": "/earthspeaks-dashboard/static/js/main.ab638b85.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
@@ -88,12 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/chat_bg.79b0fe61.jpg"
   },
   {
-    "revision": "251c302f9a6dfd8273f025ee672fe903",
-    "url": "/earthspeaks-dashboard/static/media/circuit-bg.251c302f.jpg"
+    "revision": "8b34f31e466e7216a26a8161c54debfd",
+    "url": "/earthspeaks-dashboard/static/media/circuit-bg.8b34f31e.jpg"
   },
   {
-    "revision": "0457216549910637a9856ad1e32c19e8",
-    "url": "/earthspeaks-dashboard/static/media/circuit-bot.04572165.png"
+    "revision": "93b33507206fb88aa5fd666df5a5e6c3",
+    "url": "/earthspeaks-dashboard/static/media/circuit-bot.93b33507.png"
+  },
+  {
+    "revision": "a979d7e3df5ba8fffe9b54954b1dbb1c",
+    "url": "/earthspeaks-dashboard/static/media/circuit-bubble.a979d7e3.png"
   },
   {
     "revision": "66c8bec01623c9398adb249289046215",
