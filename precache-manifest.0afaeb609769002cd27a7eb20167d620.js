@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d2db3f9dfa520a88d66a88976614402",
+    "revision": "4a428d4af43e1cac3ac29d196ee6cfc2",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "f5d816dda61e220964da",
+    "revision": "b5694818d00f27875107",
     "url": "/earthspeaks-dashboard/static/css/main.d4c3351f.chunk.css"
   },
   {
-    "revision": "0affb56f902d29fd8f69",
-    "url": "/earthspeaks-dashboard/static/js/2.8f531e5d.chunk.js"
+    "revision": "352468cbcff032556d5e",
+    "url": "/earthspeaks-dashboard/static/js/2.7dc7c368.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/earthspeaks-dashboard/static/js/2.8f531e5d.chunk.js.LICENSE.txt"
+    "url": "/earthspeaks-dashboard/static/js/2.7dc7c368.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5d816dda61e220964da",
-    "url": "/earthspeaks-dashboard/static/js/main.2fcca502.chunk.js"
+    "revision": "b5694818d00f27875107",
+    "url": "/earthspeaks-dashboard/static/js/main.ab44576f.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
@@ -80,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/air-bg.c99c58b8.jpg"
   },
   {
+    "revision": "d152c049181b7630fcfeef505c2e6f55",
+    "url": "/earthspeaks-dashboard/static/media/ask-land.d152c049.jpg"
+  },
+  {
     "revision": "b0eda3a6ddc810657bfc920ee57dd893",
     "url": "/earthspeaks-dashboard/static/media/ask-oceans.b0eda3a6.jpg"
   },
@@ -128,6 +132,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/flooding.fc5925d6.jpg"
   },
   {
+    "revision": "c9efffc00b983a189a5247c10a576eff",
+    "url": "/earthspeaks-dashboard/static/media/flora_bg.c9efffc0.jpg"
+  },
+  {
     "revision": "aeb6cb8ffee032e070213ca78eb7791f",
     "url": "/earthspeaks-dashboard/static/media/globe01.aeb6cb8f.jpg"
   },
@@ -166,6 +174,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d71d3e44aee56011f5bc71c28cca5fec",
     "url": "/earthspeaks-dashboard/static/media/phytoplankton.d71d3e44.jpg"
+  },
+  {
+    "revision": "26c4d7529919670b89a410101dd0322a",
+    "url": "/earthspeaks-dashboard/static/media/population_bg.26c4d752.jpg"
   },
   {
     "revision": "64f1d798b3abeae98392c3dc76c5fc5b",
