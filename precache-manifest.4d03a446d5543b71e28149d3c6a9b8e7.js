@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a428d4af43e1cac3ac29d196ee6cfc2",
+    "revision": "530333b9db166abe2b943075f3431a36",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "b5694818d00f27875107",
-    "url": "/earthspeaks-dashboard/static/css/main.d4c3351f.chunk.css"
+    "revision": "6e84b07e50c27a3cc807",
+    "url": "/earthspeaks-dashboard/static/css/main.1e38e5b0.chunk.css"
   },
   {
-    "revision": "352468cbcff032556d5e",
-    "url": "/earthspeaks-dashboard/static/js/2.7dc7c368.chunk.js"
+    "revision": "70d056c17651780310d9",
+    "url": "/earthspeaks-dashboard/static/js/2.647955dc.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/earthspeaks-dashboard/static/js/2.7dc7c368.chunk.js.LICENSE.txt"
+    "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
+    "url": "/earthspeaks-dashboard/static/js/2.647955dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5694818d00f27875107",
-    "url": "/earthspeaks-dashboard/static/js/main.ab44576f.chunk.js"
+    "revision": "6e84b07e50c27a3cc807",
+    "url": "/earthspeaks-dashboard/static/js/main.3fade4e3.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
@@ -76,8 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/Tumbleweed_bg.166f37a7.jpg"
   },
   {
+    "revision": "38774e2c3d1fbe72b36f8eb405315d61",
+    "url": "/earthspeaks-dashboard/static/media/agriculture_bg.38774e2c.jpg"
+  },
+  {
     "revision": "c99c58b8a8f993b18f9498090836995d",
     "url": "/earthspeaks-dashboard/static/media/air-bg.c99c58b8.jpg"
+  },
+  {
+    "revision": "bdadc66250bc58a4d9e8bb6e8fa64be4",
+    "url": "/earthspeaks-dashboard/static/media/ask-atmosphere.bdadc662.jpg"
   },
   {
     "revision": "d152c049181b7630fcfeef505c2e6f55",
@@ -92,10 +100,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/back.1200a2c9.png"
   },
   {
-    "revision": "79b0fe61bc506ce6282c6e55cb6169e3",
-    "url": "/earthspeaks-dashboard/static/media/chat_bg.79b0fe61.jpg"
-  },
-  {
     "revision": "8b34f31e466e7216a26a8161c54debfd",
     "url": "/earthspeaks-dashboard/static/media/circuit-bg.8b34f31e.jpg"
   },
@@ -108,6 +112,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/circuit-bubble.a979d7e3.png"
   },
   {
+    "revision": "edd538e0d934c3135076fb3cd4ed443e",
+    "url": "/earthspeaks-dashboard/static/media/composition_bg.edd538e0.jpg"
+  },
+  {
     "revision": "66c8bec01623c9398adb249289046215",
     "url": "/earthspeaks-dashboard/static/media/coral.66c8bec0.jpg"
   },
@@ -118,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d58f1c69a3fece4d05e8004fe10602eb",
     "url": "/earthspeaks-dashboard/static/media/earthdna_logo.d58f1c69.png"
+  },
+  {
+    "revision": "ce3b8bb1d4ac0901da0e0a4e809af5e0",
+    "url": "/earthspeaks-dashboard/static/media/fauna_bg.ce3b8bb1.jpg"
   },
   {
     "revision": "8903a46825d45126bc71622eee0d6f0a",
@@ -164,6 +176,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/logo01.84a1dc35.png"
   },
   {
+    "revision": "0cb5752a46134216880e0d6db41ad2c3",
+    "url": "/earthspeaks-dashboard/static/media/natural-threats_bg.0cb5752a.jpg"
+  },
+  {
     "revision": "f4ea8aca01f1e865171d64eddfeb1ea2",
     "url": "/earthspeaks-dashboard/static/media/near-space.f4ea8aca.jpg"
   },
@@ -202,5 +218,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44936f06f87ee0efe28e1ac3bf4f48e2",
     "url": "/earthspeaks-dashboard/static/media/up.44936f06.png"
+  },
+  {
+    "revision": "1ec5482502bbdb84fdbef42c90c4dddf",
+    "url": "/earthspeaks-dashboard/static/media/water_bg.1ec54825.jpg"
+  },
+  {
+    "revision": "03b9bb73b3ad66e8380d027567f342ad",
+    "url": "/earthspeaks-dashboard/static/media/weather_bg.03b9bb73.jpg"
   }
 ]);
