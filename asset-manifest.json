@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/earthspeaks-dashboard/static/css/main.1e38e5b0.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.e34bbe8a.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.e34bbe8a.chunk.js.map",
+    "main.js": "/earthspeaks-dashboard/static/js/main.2c98e4dc.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.2c98e4dc.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
-    "static/js/2.37791835.chunk.js": "/earthspeaks-dashboard/static/js/2.37791835.chunk.js",
-    "static/js/2.37791835.chunk.js.map": "/earthspeaks-dashboard/static/js/2.37791835.chunk.js.map",
+    "static/js/2.c7518e1f.chunk.js": "/earthspeaks-dashboard/static/js/2.c7518e1f.chunk.js",
+    "static/js/2.c7518e1f.chunk.js.map": "/earthspeaks-dashboard/static/js/2.c7518e1f.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.a09a775fdc0887dcfab0e33b1d480a91.js": "/earthspeaks-dashboard/precache-manifest.a09a775fdc0887dcfab0e33b1d480a91.js",
+    "precache-manifest.11fed2a3e4a16be72911d6b0d0e801d1.js": "/earthspeaks-dashboard/precache-manifest.11fed2a3e4a16be72911d6b0d0e801d1.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
     "static/css/main.1e38e5b0.chunk.css.map": "/earthspeaks-dashboard/static/css/main.1e38e5b0.chunk.css.map",
-    "static/js/2.37791835.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.37791835.chunk.js.LICENSE.txt",
+    "static/js/2.c7518e1f.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.c7518e1f.chunk.js.LICENSE.txt",
     "static/media/VitalArcticseaiceminimum.css": "/earthspeaks-dashboard/static/media/Arcticseaiceminimum_bg.8249f498.jpg",
     "static/media/VitalBees.css": "/earthspeaks-dashboard/static/media/Bees_bg.ae7fa4b5.jpg",
     "static/media/VitalCO2.css": "/earthspeaks-dashboard/static/media/CO2_bg.83a68b22.jpg",
@@ -45,6 +45,7 @@
     "static/media/flora_bg.jpg": "/earthspeaks-dashboard/static/media/flora_bg.c9efffc0.jpg",
     "static/media/globe01.jpg": "/earthspeaks-dashboard/static/media/globe01.aeb6cb8f.jpg",
     "static/media/globe02.png": "/earthspeaks-dashboard/static/media/globe02.c94d147c.png",
+    "static/media/herring.jpg": "/earthspeaks-dashboard/static/media/herring.bf5b3494.jpg",
     "static/media/land-bg.jpg": "/earthspeaks-dashboard/static/media/land-bg.c2f5048e.jpg",
     "static/media/InfoLanternfish.css": "/earthspeaks-dashboard/static/media/lanternfish.f5b6829b.jpg",
     "static/media/lobster.jpg": "/earthspeaks-dashboard/static/media/lobster.f41ab092.jpg",
@@ -66,8 +67,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.43373d4e.js",
-    "static/js/2.37791835.chunk.js",
+    "static/js/2.c7518e1f.chunk.js",
     "static/css/main.1e38e5b0.chunk.css",
-    "static/js/main.e34bbe8a.chunk.js"
+    "static/js/main.2c98e4dc.chunk.js"
   ]
 }
