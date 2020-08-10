@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fe62c712c47179e068014028bdd003d",
+    "revision": "e68e3be5fb426b0ae3949d9739a0ac52",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "afea17bc6c1d77e4d46b",
-    "url": "/earthspeaks-dashboard/static/css/main.1e38e5b0.chunk.css"
+    "revision": "5e025f1158be37d2081b",
+    "url": "/earthspeaks-dashboard/static/css/main.0f0e6f14.chunk.css"
   },
   {
-    "revision": "21866f2c40c82eddb694",
-    "url": "/earthspeaks-dashboard/static/js/2.c7518e1f.chunk.js"
+    "revision": "8d3ebc77e6242ecc607d",
+    "url": "/earthspeaks-dashboard/static/js/2.6550f71d.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/earthspeaks-dashboard/static/js/2.c7518e1f.chunk.js.LICENSE.txt"
+    "url": "/earthspeaks-dashboard/static/js/2.6550f71d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "afea17bc6c1d77e4d46b",
-    "url": "/earthspeaks-dashboard/static/js/main.2c98e4dc.chunk.js"
+    "revision": "5e025f1158be37d2081b",
+    "url": "/earthspeaks-dashboard/static/js/main.807e7fa4.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
@@ -156,10 +156,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/globe02.c94d147c.png"
   },
   {
-    "revision": "bf5b34942948fd210b8016c8ca49a8d9",
-    "url": "/earthspeaks-dashboard/static/media/herring.bf5b3494.jpg"
-  },
-  {
     "revision": "c2f5048ef0cc4832f652b192c6911a4b",
     "url": "/earthspeaks-dashboard/static/media/land-bg.c2f5048e.jpg"
   },
@@ -214,6 +210,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aa4bfce46e05e1d081778c9a4f5978e6",
     "url": "/earthspeaks-dashboard/static/media/sea_turtle.aa4bfce4.jpg"
+  },
+  {
+    "revision": "d168930c46fbfa0b20d877a7b8e8755e",
+    "url": "/earthspeaks-dashboard/static/media/shell01.d168930c.jpg"
+  },
+  {
+    "revision": "fa864070d6aab8d37f26bdb66f3a5b95",
+    "url": "/earthspeaks-dashboard/static/media/shell02.fa864070.jpg"
   },
   {
     "revision": "e47813f74a80d32fcc3b05fa8bb64b2b",
