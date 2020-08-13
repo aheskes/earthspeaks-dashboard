@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78e41f5dd9eb380343c65ef459608cd9",
+    "revision": "15ac9cd4d99f86aa8ea81dfd1201cea7",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "3ed8e38752add64fe59a",
-    "url": "/earthspeaks-dashboard/static/css/main.0f0e6f14.chunk.css"
+    "revision": "4b22f4c79a7a60c9c41f",
+    "url": "/earthspeaks-dashboard/static/css/main.922b523c.chunk.css"
   },
   {
-    "revision": "568ca17be032035835db",
-    "url": "/earthspeaks-dashboard/static/js/2.199145ff.chunk.js"
+    "revision": "7114a7d67c8254818d68",
+    "url": "/earthspeaks-dashboard/static/js/2.d32bc042.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/earthspeaks-dashboard/static/js/2.199145ff.chunk.js.LICENSE.txt"
+    "url": "/earthspeaks-dashboard/static/js/2.d32bc042.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ed8e38752add64fe59a",
-    "url": "/earthspeaks-dashboard/static/js/main.f2bc0c74.chunk.js"
+    "revision": "4b22f4c79a7a60c9c41f",
+    "url": "/earthspeaks-dashboard/static/js/main.0c9c9014.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
@@ -32,24 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/Bees_bg.ae7fa4b5.jpg"
   },
   {
-    "revision": "83a68b22581cb8b53b300a6258c1db12",
-    "url": "/earthspeaks-dashboard/static/media/CO2_bg.83a68b22.jpg"
-  },
-  {
-    "revision": "cccfe58515dab20e66f1990e3a08d164",
-    "url": "/earthspeaks-dashboard/static/media/Coral_bg.cccfe585.jpg"
-  },
-  {
     "revision": "61b2141246fd93effc736d6625559c17",
     "url": "/earthspeaks-dashboard/static/media/Deforestation_bg.61b21412.jpg"
   },
   {
     "revision": "1ec5482502bbdb84fdbef42c90c4dddf",
     "url": "/earthspeaks-dashboard/static/media/Freshwater_bg.1ec54825.jpg"
-  },
-  {
-    "revision": "7f534ce8a2e6a9db27da4d628ade20e8",
-    "url": "/earthspeaks-dashboard/static/media/Icesheets_bg.7f534ce8.jpg"
   },
   {
     "revision": "ecfbc2d4422e6d1335457bafe20a7bd7",
@@ -76,12 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/Tumbleweed_bg.166f37a7.jpg"
   },
   {
-    "revision": "38774e2c3d1fbe72b36f8eb405315d61",
-    "url": "/earthspeaks-dashboard/static/media/agriculture_bg.38774e2c.jpg"
+    "revision": "46fd0470be49965604c5a2cd7470d4b8",
+    "url": "/earthspeaks-dashboard/static/media/agriculture_bg.46fd0470.jpg"
   },
   {
     "revision": "c99c58b8a8f993b18f9498090836995d",
     "url": "/earthspeaks-dashboard/static/media/air-bg.c99c58b8.jpg"
+  },
+  {
+    "revision": "7f534ce8a2e6a9db27da4d628ade20e8",
+    "url": "/earthspeaks-dashboard/static/media/arctic_bg.7f534ce8.jpg"
   },
   {
     "revision": "bdadc66250bc58a4d9e8bb6e8fa64be4",
@@ -112,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/circuit-bubble.a979d7e3.png"
   },
   {
-    "revision": "edd538e0d934c3135076fb3cd4ed443e",
-    "url": "/earthspeaks-dashboard/static/media/composition_bg.edd538e0.jpg"
+    "revision": "eb508103cf5bd45496a476209a92414d",
+    "url": "/earthspeaks-dashboard/static/media/composition_bg.eb508103.jpg"
   },
   {
     "revision": "66c8bec01623c9398adb249289046215",
@@ -144,16 +136,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/flooding.fc5925d6.jpg"
   },
   {
-    "revision": "c9efffc00b983a189a5247c10a576eff",
-    "url": "/earthspeaks-dashboard/static/media/flora_bg.c9efffc0.jpg"
+    "revision": "bf5b34942948fd210b8016c8ca49a8d9",
+    "url": "/earthspeaks-dashboard/static/media/herring.bf5b3494.jpg"
   },
   {
-    "revision": "aeb6cb8ffee032e070213ca78eb7791f",
-    "url": "/earthspeaks-dashboard/static/media/globe01.aeb6cb8f.jpg"
-  },
-  {
-    "revision": "c94d147ccc32410ddcc2df7c9b676d79",
-    "url": "/earthspeaks-dashboard/static/media/globe02.c94d147c.png"
+    "revision": "aa6526f8497eea1af438cc8d1ba508b1",
+    "url": "/earthspeaks-dashboard/static/media/hypoxia_bg.aa6526f8.jpg"
   },
   {
     "revision": "c2f5048ef0cc4832f652b192c6911a4b",
@@ -188,8 +176,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/ocean-bg.0a9f3d5a.jpg"
   },
   {
-    "revision": "d71d3e44aee56011f5bc71c28cca5fec",
-    "url": "/earthspeaks-dashboard/static/media/phytoplankton.d71d3e44.jpg"
+    "revision": "357f7c97eab1dbc6bfa0dd41526c6975",
+    "url": "/earthspeaks-dashboard/static/media/ocean-warming.357f7c97.jpg"
+  },
+  {
+    "revision": "01ac93875577571ccf105743fb8a3713",
+    "url": "/earthspeaks-dashboard/static/media/phytoplankton.01ac9387.png"
+  },
+  {
+    "revision": "86a294c03de22cbb8ee9eed442fa2f3a",
+    "url": "/earthspeaks-dashboard/static/media/pollution.86a294c0.jpg"
   },
   {
     "revision": "26c4d7529919670b89a410101dd0322a",
@@ -200,8 +196,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/prediction.64f1d798.png"
   },
   {
-    "revision": "6e36fac270fa442b36b97796289611e0",
-    "url": "/earthspeaks-dashboard/static/media/prop_bg.6e36fac2.jpg"
+    "revision": "e461fe9019a86ebf23fa971c98438e5b",
+    "url": "/earthspeaks-dashboard/static/media/prop_bg.e461fe90.jpg"
   },
   {
     "revision": "9c23ebfc44d8f675aeefa9549ada531a",
@@ -228,11 +224,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/up.44936f06.png"
   },
   {
-    "revision": "1ec5482502bbdb84fdbef42c90c4dddf",
-    "url": "/earthspeaks-dashboard/static/media/water_bg.1ec54825.jpg"
-  },
-  {
     "revision": "03b9bb73b3ad66e8380d027567f342ad",
     "url": "/earthspeaks-dashboard/static/media/weather_bg.03b9bb73.jpg"
+  },
+  {
+    "revision": "41577e0d9b8818e90811eefe4c462f50",
+    "url": "/earthspeaks-dashboard/static/media/zooplankton.41577e0d.jpg"
   }
 ]);
