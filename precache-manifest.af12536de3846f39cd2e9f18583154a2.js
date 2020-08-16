@@ -1,47 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f01f6d209967f1b2551d431b13b4d446",
+    "revision": "d451d73445ea8a509d7644540da22a85",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "10567fa8500066e83326",
-    "url": "/earthspeaks-dashboard/static/css/main.e3c86580.chunk.css"
+    "revision": "4536e9c78041932c1606",
+    "url": "/earthspeaks-dashboard/static/css/main.1a5874a9.chunk.css"
   },
   {
-    "revision": "012ae9cead264d5dbe3e",
-    "url": "/earthspeaks-dashboard/static/js/2.6c8344ff.chunk.js"
+    "revision": "b1f21573f9fba126a795",
+    "url": "/earthspeaks-dashboard/static/js/2.0a3ea902.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/earthspeaks-dashboard/static/js/2.6c8344ff.chunk.js.LICENSE.txt"
+    "url": "/earthspeaks-dashboard/static/js/2.0a3ea902.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10567fa8500066e83326",
-    "url": "/earthspeaks-dashboard/static/js/main.4e8793bf.chunk.js"
+    "revision": "4536e9c78041932c1606",
+    "url": "/earthspeaks-dashboard/static/js/main.ae56396c.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
     "url": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js"
   },
   {
-    "revision": "1ec5482502bbdb84fdbef42c90c4dddf",
-    "url": "/earthspeaks-dashboard/static/media/Freshwater_bg.1ec54825.jpg"
+    "revision": "953fa1d267eb12509633143d6d8d7046",
+    "url": "/earthspeaks-dashboard/static/media/Freshwater_bg.953fa1d2.jpg"
   },
   {
     "revision": "ecfbc2d4422e6d1335457bafe20a7bd7",
     "url": "/earthspeaks-dashboard/static/media/Lionfish_bg.ecfbc2d4.jpg"
   },
   {
-    "revision": "46fd0470be49965604c5a2cd7470d4b8",
-    "url": "/earthspeaks-dashboard/static/media/agriculture_bg.46fd0470.jpg"
-  },
-  {
     "revision": "c99c58b8a8f993b18f9498090836995d",
     "url": "/earthspeaks-dashboard/static/media/air-bg.c99c58b8.jpg"
-  },
-  {
-    "revision": "7f534ce8a2e6a9db27da4d628ade20e8",
-    "url": "/earthspeaks-dashboard/static/media/arctic_bg.7f534ce8.jpg"
   },
   {
     "revision": "bdadc66250bc58a4d9e8bb6e8fa64be4",
@@ -52,12 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/ask-land.d152c049.jpg"
   },
   {
+    "revision": "cc55c053c30ed5f74bab06df91cfb068",
+    "url": "/earthspeaks-dashboard/static/media/ask-nearspace.cc55c053.jpg"
+  },
+  {
     "revision": "b0eda3a6ddc810657bfc920ee57dd893",
     "url": "/earthspeaks-dashboard/static/media/ask-oceans.b0eda3a6.jpg"
   },
   {
     "revision": "1200a2c97b5332fce57cd10da14e6c7f",
     "url": "/earthspeaks-dashboard/static/media/back.1200a2c9.png"
+  },
+  {
+    "revision": "44c9b344f59279e28b98f441d1179e5c",
+    "url": "/earthspeaks-dashboard/static/media/beetle.44c9b344.jpg"
   },
   {
     "revision": "8b34f31e466e7216a26a8161c54debfd",
@@ -80,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/coral.66c8bec0.jpg"
   },
   {
+    "revision": "5c46864dffb3ce2b99b0579bd7047bce",
+    "url": "/earthspeaks-dashboard/static/media/crab.5c46864d.jpg"
+  },
+  {
     "revision": "e38d6594db447a209e40c2c73e27e183",
     "url": "/earthspeaks-dashboard/static/media/dn.e38d6594.png"
   },
@@ -88,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/earthdna_logo.d58f1c69.png"
   },
   {
-    "revision": "ce3b8bb1d4ac0901da0e0a4e809af5e0",
-    "url": "/earthspeaks-dashboard/static/media/fauna_bg.ce3b8bb1.jpg"
+    "revision": "89d75aae3cc59f8cba02653a784e9310",
+    "url": "/earthspeaks-dashboard/static/media/fauna.89d75aae.jpg"
   },
   {
     "revision": "ad6d13937d4417f37913a8e444d7d994",
@@ -102,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aa6526f8497eea1af438cc8d1ba508b1",
     "url": "/earthspeaks-dashboard/static/media/hypoxia_bg.aa6526f8.jpg"
+  },
+  {
+    "revision": "1507ae1f6eeccfc0005154827bc15cb6",
+    "url": "/earthspeaks-dashboard/static/media/icemin.1507ae1f.jpg"
   },
   {
     "revision": "c2f5048ef0cc4832f652b192c6911a4b",
@@ -136,36 +144,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/ocean-bg.0a9f3d5a.jpg"
   },
   {
-    "revision": "357f7c97eab1dbc6bfa0dd41526c6975",
-    "url": "/earthspeaks-dashboard/static/media/ocean-warming.357f7c97.jpg"
-  },
-  {
     "revision": "01ac93875577571ccf105743fb8a3713",
     "url": "/earthspeaks-dashboard/static/media/phytoplankton.01ac9387.png"
   },
   {
-    "revision": "86a294c03de22cbb8ee9eed442fa2f3a",
-    "url": "/earthspeaks-dashboard/static/media/pollution.86a294c0.jpg"
+    "revision": "c41876a6bc97d665d19995af9d8b0b61",
+    "url": "/earthspeaks-dashboard/static/media/pollution.c41876a6.jpg"
   },
   {
-    "revision": "26c4d7529919670b89a410101dd0322a",
-    "url": "/earthspeaks-dashboard/static/media/population_bg.26c4d752.jpg"
+    "revision": "f614d82dbc56d6e9f8fb3e0e63beec59",
+    "url": "/earthspeaks-dashboard/static/media/population.f614d82d.jpg"
   },
   {
     "revision": "861bed06c906177588c1a4bb19268af2",
     "url": "/earthspeaks-dashboard/static/media/prediction.861bed06.png"
   },
   {
-    "revision": "e461fe9019a86ebf23fa971c98438e5b",
-    "url": "/earthspeaks-dashboard/static/media/prop_bg.e461fe90.jpg"
-  },
-  {
-    "revision": "9c23ebfc44d8f675aeefa9549ada531a",
-    "url": "/earthspeaks-dashboard/static/media/pteropod.9c23ebfc.jpg"
-  },
-  {
     "revision": "aa4bfce46e05e1d081778c9a4f5978e6",
     "url": "/earthspeaks-dashboard/static/media/sea_turtle.aa4bfce4.jpg"
+  },
+  {
+    "revision": "f52a757dd23a41d673f05ef1d5a2cce5",
+    "url": "/earthspeaks-dashboard/static/media/sealevel.f52a757d.jpg"
   },
   {
     "revision": "d168930c46fbfa0b20d877a7b8e8755e",
@@ -182,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "836a1286d003b84d754e276d9d17d3e4",
     "url": "/earthspeaks-dashboard/static/media/up.836a1286.png"
+  },
+  {
+    "revision": "f3044dfe67ef6fae5330530963fc3549",
+    "url": "/earthspeaks-dashboard/static/media/warming.f3044dfe.jpg"
   },
   {
     "revision": "03b9bb73b3ad66e8380d027567f342ad",
