@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d451d73445ea8a509d7644540da22a85",
+    "revision": "d07502a8c3c1a783126eff013b335246",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "4536e9c78041932c1606",
-    "url": "/earthspeaks-dashboard/static/css/main.1a5874a9.chunk.css"
+    "revision": "8f5a94687ff28bf51a22",
+    "url": "/earthspeaks-dashboard/static/css/main.06cb347e.chunk.css"
   },
   {
-    "revision": "b1f21573f9fba126a795",
-    "url": "/earthspeaks-dashboard/static/js/2.0a3ea902.chunk.js"
+    "revision": "6ac18916557a20097ccd",
+    "url": "/earthspeaks-dashboard/static/js/2.b6d9c624.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/earthspeaks-dashboard/static/js/2.0a3ea902.chunk.js.LICENSE.txt"
+    "url": "/earthspeaks-dashboard/static/js/2.b6d9c624.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4536e9c78041932c1606",
-    "url": "/earthspeaks-dashboard/static/js/main.ae56396c.chunk.js"
+    "revision": "8f5a94687ff28bf51a22",
+    "url": "/earthspeaks-dashboard/static/js/main.915a4278.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
     "url": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js"
+  },
+  {
+    "revision": "61b2141246fd93effc736d6625559c17",
+    "url": "/earthspeaks-dashboard/static/media/Deforestation_bg.61b21412.jpg"
   },
   {
     "revision": "953fa1d267eb12509633143d6d8d7046",
@@ -36,20 +40,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/air-bg.c99c58b8.jpg"
   },
   {
-    "revision": "bdadc66250bc58a4d9e8bb6e8fa64be4",
-    "url": "/earthspeaks-dashboard/static/media/ask-atmosphere.bdadc662.jpg"
+    "revision": "b2d318145af8847142dff265df4bfcec",
+    "url": "/earthspeaks-dashboard/static/media/albacore.b2d31814.jpg"
   },
   {
-    "revision": "d152c049181b7630fcfeef505c2e6f55",
-    "url": "/earthspeaks-dashboard/static/media/ask-land.d152c049.jpg"
+    "revision": "4c47ddc595cd633c6d2f77ce26a57565",
+    "url": "/earthspeaks-dashboard/static/media/ask-atmosphere.4c47ddc5.jpg"
   },
   {
-    "revision": "cc55c053c30ed5f74bab06df91cfb068",
-    "url": "/earthspeaks-dashboard/static/media/ask-nearspace.cc55c053.jpg"
+    "revision": "6cd66123c16546cf75c7cdee1af60f6f",
+    "url": "/earthspeaks-dashboard/static/media/ask-land.6cd66123.jpg"
   },
   {
-    "revision": "b0eda3a6ddc810657bfc920ee57dd893",
-    "url": "/earthspeaks-dashboard/static/media/ask-oceans.b0eda3a6.jpg"
+    "revision": "b03889d18c7ccf56a515013265118c0e",
+    "url": "/earthspeaks-dashboard/static/media/ask-nearspace.b03889d1.jpg"
+  },
+  {
+    "revision": "d9951479918a333cb835cbcd02e1872a",
+    "url": "/earthspeaks-dashboard/static/media/ask-oceans.d9951479.jpg"
   },
   {
     "revision": "1200a2c97b5332fce57cd10da14e6c7f",
@@ -94,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "89d75aae3cc59f8cba02653a784e9310",
     "url": "/earthspeaks-dashboard/static/media/fauna.89d75aae.jpg"
+  },
+  {
+    "revision": "8903a46825d45126bc71622eee0d6f0a",
+    "url": "/earthspeaks-dashboard/static/media/fire.8903a468.jpg"
   },
   {
     "revision": "ad6d13937d4417f37913a8e444d7d994",
