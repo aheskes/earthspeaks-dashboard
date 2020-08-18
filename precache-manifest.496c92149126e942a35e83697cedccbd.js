@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "783f8285eff17905c11a5f2989263f50",
+    "revision": "be9eac55f31c36caba8e11fc2d432356",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
