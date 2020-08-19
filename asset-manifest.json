@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/earthspeaks-dashboard/static/css/main.06cb347e.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.4979801b.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.4979801b.chunk.js.map",
+    "main.js": "/earthspeaks-dashboard/static/js/main.4fb76485.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.4fb76485.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
     "static/js/2.52370464.chunk.js": "/earthspeaks-dashboard/static/js/2.52370464.chunk.js",
     "static/js/2.52370464.chunk.js.map": "/earthspeaks-dashboard/static/js/2.52370464.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.af97b63c9573ae071f036f1aef193da1.js": "/earthspeaks-dashboard/precache-manifest.af97b63c9573ae071f036f1aef193da1.js",
+    "precache-manifest.fb9104925d84f0dd7880242443aaebe5.js": "/earthspeaks-dashboard/precache-manifest.fb9104925d84f0dd7880242443aaebe5.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
     "static/css/main.06cb347e.chunk.css.map": "/earthspeaks-dashboard/static/css/main.06cb347e.chunk.css.map",
     "static/js/2.52370464.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.52370464.chunk.js.LICENSE.txt",
@@ -17,7 +17,7 @@
     "static/media/Lionfish_bg.jpg": "/earthspeaks-dashboard/static/media/Lionfish_bg.ecfbc2d4.jpg",
     "static/media/Tumbleweed_bg.jpg": "/earthspeaks-dashboard/static/media/Tumbleweed_bg.166f37a7.jpg",
     "static/media/air-bg.jpg": "/earthspeaks-dashboard/static/media/air-bg.c99c58b8.jpg",
-    "static/media/albacore.jpg": "/earthspeaks-dashboard/static/media/albacore.b2d31814.jpg",
+    "static/media/albacore.jpg": "/earthspeaks-dashboard/static/media/albacore.89b5aac2.jpg",
     "static/media/arabica.jpg": "/earthspeaks-dashboard/static/media/arabica.585a100e.jpg",
     "static/media/ask-atmosphere.jpg": "/earthspeaks-dashboard/static/media/ask-atmosphere.4c47ddc5.jpg",
     "static/media/ask-land.jpg": "/earthspeaks-dashboard/static/media/ask-land.6cd66123.jpg",
@@ -70,6 +70,6 @@
     "static/js/runtime-main.43373d4e.js",
     "static/js/2.52370464.chunk.js",
     "static/css/main.06cb347e.chunk.css",
-    "static/js/main.4979801b.chunk.js"
+    "static/js/main.4fb76485.chunk.js"
   ]
 }
