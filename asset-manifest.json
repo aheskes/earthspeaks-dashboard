@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/earthspeaks-dashboard/static/css/main.06cb347e.chunk.css",
-    "main.js": "/earthspeaks-dashboard/static/js/main.f8d35b07.chunk.js",
-    "main.js.map": "/earthspeaks-dashboard/static/js/main.f8d35b07.chunk.js.map",
+    "main.js": "/earthspeaks-dashboard/static/js/main.dbb45da5.chunk.js",
+    "main.js.map": "/earthspeaks-dashboard/static/js/main.dbb45da5.chunk.js.map",
     "runtime-main.js": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js",
     "runtime-main.js.map": "/earthspeaks-dashboard/static/js/runtime-main.43373d4e.js.map",
-    "static/js/2.38cb2b16.chunk.js": "/earthspeaks-dashboard/static/js/2.38cb2b16.chunk.js",
-    "static/js/2.38cb2b16.chunk.js.map": "/earthspeaks-dashboard/static/js/2.38cb2b16.chunk.js.map",
+    "static/js/2.52370464.chunk.js": "/earthspeaks-dashboard/static/js/2.52370464.chunk.js",
+    "static/js/2.52370464.chunk.js.map": "/earthspeaks-dashboard/static/js/2.52370464.chunk.js.map",
     "index.html": "/earthspeaks-dashboard/index.html",
-    "precache-manifest.c65b00f38e8038be15b329492d7b1bab.js": "/earthspeaks-dashboard/precache-manifest.c65b00f38e8038be15b329492d7b1bab.js",
+    "precache-manifest.87d29f0b4926e91e2863dd50577ba00d.js": "/earthspeaks-dashboard/precache-manifest.87d29f0b4926e91e2863dd50577ba00d.js",
     "service-worker.js": "/earthspeaks-dashboard/service-worker.js",
     "static/css/main.06cb347e.chunk.css.map": "/earthspeaks-dashboard/static/css/main.06cb347e.chunk.css.map",
-    "static/js/2.38cb2b16.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.38cb2b16.chunk.js.LICENSE.txt",
+    "static/js/2.52370464.chunk.js.LICENSE.txt": "/earthspeaks-dashboard/static/js/2.52370464.chunk.js.LICENSE.txt",
     "static/media/Deforestation_bg.jpg": "/earthspeaks-dashboard/static/media/Deforestation_bg.61b21412.jpg",
     "static/media/Freshwater_bg.jpg": "/earthspeaks-dashboard/static/media/Freshwater_bg.953fa1d2.jpg",
     "static/media/Lionfish_bg.jpg": "/earthspeaks-dashboard/static/media/Lionfish_bg.ecfbc2d4.jpg",
@@ -68,8 +68,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.43373d4e.js",
-    "static/js/2.38cb2b16.chunk.js",
+    "static/js/2.52370464.chunk.js",
     "static/css/main.06cb347e.chunk.css",
-    "static/js/main.f8d35b07.chunk.js"
+    "static/js/main.dbb45da5.chunk.js"
   ]
 }
