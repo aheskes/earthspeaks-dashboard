@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "caabc734d8b74bd5957b791ccaa903d5",
+    "revision": "3be8254c40c583b286009e939270b305",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
-    "revision": "e19c45743221b833550c",
-    "url": "/earthspeaks-dashboard/static/css/main.02eb6bb9.chunk.css"
+    "revision": "d9aa014f8024ea3400e2",
+    "url": "/earthspeaks-dashboard/static/css/main.d0b49388.chunk.css"
   },
   {
-    "revision": "3715fcbf1c94a9cce756",
-    "url": "/earthspeaks-dashboard/static/js/2.ec32d87f.chunk.js"
+    "revision": "6eec510bffd864de641e",
+    "url": "/earthspeaks-dashboard/static/js/2.858af128.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/earthspeaks-dashboard/static/js/2.ec32d87f.chunk.js.LICENSE.txt"
+    "url": "/earthspeaks-dashboard/static/js/2.858af128.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e19c45743221b833550c",
-    "url": "/earthspeaks-dashboard/static/js/main.687674f5.chunk.js"
+    "revision": "d9aa014f8024ea3400e2",
+    "url": "/earthspeaks-dashboard/static/js/main.5d0bdf31.chunk.js"
   },
   {
     "revision": "cd3c1841e19174603e16",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "166f37a776600d23c9c18fe2fce30c5d",
     "url": "/earthspeaks-dashboard/static/media/Tumbleweed_bg.166f37a7.jpg"
+  },
+  {
+    "revision": "4bb05b98781949aead9a0f7e2aa473fb",
+    "url": "/earthspeaks-dashboard/static/media/after-sandy.4bb05b98.jpg"
   },
   {
     "revision": "c99c58b8a8f993b18f9498090836995d",
@@ -64,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/back.1200a2c9.png"
   },
   {
+    "revision": "4ee72c13c10a94f7d7c219a815a8750d",
+    "url": "/earthspeaks-dashboard/static/media/before-sandy.4ee72c13.jpg"
+  },
+  {
     "revision": "7f0ca851e315a1b6143178636ad0df0c",
     "url": "/earthspeaks-dashboard/static/media/broccoli.7f0ca851.jpg"
   },
@@ -92,12 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/cleanwater.ebd4e1df.jpg"
   },
   {
-    "revision": "a17fa5a52a7bfc8eba9167352f195c90",
-    "url": "/earthspeaks-dashboard/static/media/co2.a17fa5a5.jpg"
-  },
-  {
-    "revision": "eb508103cf5bd45496a476209a92414d",
-    "url": "/earthspeaks-dashboard/static/media/composition_bg.eb508103.jpg"
+    "revision": "0393c3ce9c7e90c189093221ae03a3e5",
+    "url": "/earthspeaks-dashboard/static/media/co2.0393c3ce.jpg"
   },
   {
     "revision": "89bd2b24e3afebbd9dcf78a2367f4a80",
@@ -138,6 +142,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87fe8d34c9ea37c122f088b0ebf01134",
     "url": "/earthspeaks-dashboard/static/media/honeybee.87fe8d34.jpg"
+  },
+  {
+    "revision": "0ca4fc3cc1ae7c9416bda034081c7aba",
+    "url": "/earthspeaks-dashboard/static/media/hurricanes.0ca4fc3c.jpg"
   },
   {
     "revision": "aa6526f8497eea1af438cc8d1ba508b1",
@@ -252,12 +260,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/media/shark.cde376a3.jpg"
   },
   {
-    "revision": "d168930c46fbfa0b20d877a7b8e8755e",
-    "url": "/earthspeaks-dashboard/static/media/shell01.d168930c.jpg"
+    "revision": "0a628aabfd59fbbc27aadb2047c9c263",
+    "url": "/earthspeaks-dashboard/static/media/shell01.0a628aab.jpg"
   },
   {
-    "revision": "fa864070d6aab8d37f26bdb66f3a5b95",
-    "url": "/earthspeaks-dashboard/static/media/shell02.fa864070.jpg"
+    "revision": "c5603fb63ccdf71f5edc81854b5aa1f3",
+    "url": "/earthspeaks-dashboard/static/media/shell02.c5603fb6.jpg"
   },
   {
     "revision": "3380f7088be944726eae09ed5ae648b7",
