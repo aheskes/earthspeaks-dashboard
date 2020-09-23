@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4447c815c912f8d22842f598992cad4f",
+    "revision": "87baad2bc192aa96b942c78a7f1cacf8",
     "url": "/earthspeaks-dashboard/index.html"
   },
   {
@@ -160,7 +160,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/css/46.dcdc2432.chunk.css"
   },
   {
-    "revision": "b6119c93b359d68004d3",
+    "revision": "386487007bd3d87acccb",
     "url": "/earthspeaks-dashboard/static/css/47.19df021b.chunk.css"
   },
   {
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/css/9.9e616721.chunk.css"
   },
   {
-    "revision": "a1dd3f1f553803cd63bb",
-    "url": "/earthspeaks-dashboard/static/css/main.fb8d589e.chunk.css"
+    "revision": "78ba0bd68102defa666a",
+    "url": "/earthspeaks-dashboard/static/css/main.def819f9.chunk.css"
   },
   {
     "revision": "54f838367b97409dee9e",
@@ -360,8 +360,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/js/46.f2bfa3b4.chunk.js"
   },
   {
-    "revision": "b6119c93b359d68004d3",
-    "url": "/earthspeaks-dashboard/static/js/47.3623e766.chunk.js"
+    "revision": "386487007bd3d87acccb",
+    "url": "/earthspeaks-dashboard/static/js/47.a318225a.chunk.js"
   },
   {
     "revision": "b44c62239069f40d10b5",
@@ -412,12 +412,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthspeaks-dashboard/static/js/9.0bcb2d65.chunk.js"
   },
   {
-    "revision": "a1dd3f1f553803cd63bb",
+    "revision": "78ba0bd68102defa666a",
     "url": "/earthspeaks-dashboard/static/js/main.19e15410.chunk.js"
   },
   {
-    "revision": "80498e18883fe172b5fa",
-    "url": "/earthspeaks-dashboard/static/js/runtime-main.85dde949.js"
+    "revision": "49600ec677f7ec08aef6",
+    "url": "/earthspeaks-dashboard/static/js/runtime-main.b72dd474.js"
   },
   {
     "revision": "61b2141246fd93effc736d6625559c17",
